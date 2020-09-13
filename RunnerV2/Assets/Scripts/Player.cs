@@ -17,7 +17,7 @@ public class Player : MonoBehaviour
     
 
     float speed = 35f;
-    float sideRotate = 1.5f;
+    float sideRotate = 1.6f;
     bool disabled = true;
     Camera cachedCamera;
     Vector3 offset;
